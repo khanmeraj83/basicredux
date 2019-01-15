@@ -1,0 +1,11 @@
+{
+  "main.js": "/basicredux/static/js/main.86cd3676.chunk.js",
+  "main.js.map": "/basicredux/static/js/main.86cd3676.chunk.js.map",
+  "static/js/1.eb5a6a5a.chunk.js": "/basicredux/static/js/1.eb5a6a5a.chunk.js",
+  "static/js/1.eb5a6a5a.chunk.js.map": "/basicredux/static/js/1.eb5a6a5a.chunk.js.map",
+  "runtime~main.js": "/basicredux/static/js/runtime~main.2eeb5517.js",
+  "runtime~main.js.map": "/basicredux/static/js/runtime~main.2eeb5517.js.map",
+  "index.html": "/basicredux/index.html",
+  "precache-manifest.f3ef146381665da4f455cba4e013bd09.js": "/basicredux/precache-manifest.f3ef146381665da4f455cba4e013bd09.js",
+  "service-worker.js": "/basicredux/service-worker.js"
+}
